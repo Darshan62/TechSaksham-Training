@@ -1,0 +1,13 @@
+name = "darshan dj"
+print(name.capitalize())
+print(name.casefold())
+print(name.count('a'))
+print(name.count('d'))
+print(name.endswith('j'))
+print(name.lower())
+print(name.upper())
+print(name.find('s'))
+print(name.join(['sd']))
+print(name)
+print(name.lstrip())
+print(name)
